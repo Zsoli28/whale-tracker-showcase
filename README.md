@@ -34,5 +34,5 @@ Built with an emphasis on low latency and 24/7 cloud availability.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/whale-tracker-showcase.git](https://github.com/Zsoli28/whale-tracker-showcase.git)
+   git clone https://github.com/Zsoli28/whale-tracker-showcase.git
    cd whale-tracker-showcase
